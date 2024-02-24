@@ -1,0 +1,75 @@
+
+.left-container {
+  display: flex;
+ 
+}
+
+.left-container  {
+
+  height: 512px;
+  margin-left: 1.5rem;
+  margin-top: 1rem;
+  width: 55rem;
+  left: 0;
+  top: 122px;
+  border-radius: 20px;
+  background-image: url('../../Assets/Images/image\ 1.jpg');
+  border-radius: 25px;
+
+}
+
+.brand-head {
+  color: azure;
+  margin-left: 5rem ;
+
+}
+
+.brand-para{
+  color: antiquewhite;
+  margin-left: 3rem;
+}
+
+
+
+.footer {
+  position: absolute;
+  height: 54px;
+  left: 0px;
+  right: 0px;
+  top: 650px;
+
+  background: #ffe873;
+}
+
+.footer p {
+  width: 1500px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 50px;
+
+  color: #ff0000;
+}
+
+
+  .left-container .container {
+    margin-left: 43rem;
+    height: 350px;
+    width: 0px;
+    left: 36px;
+    top: 100px;
+    border-radius: 20px;
+    background-color:  #8F68BD;
+    
+  }
+
+.home-page{
+  top: 25px;
+}
+
+.btn  {
+  margin-left: 0.8rem;
+  
+}
+

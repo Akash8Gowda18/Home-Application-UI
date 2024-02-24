@@ -1,0 +1,58 @@
+.content {
+  background-color: #f2eefb;
+  height: 705px;
+  
+}
+
+.content .header{
+  padding-top: 5px;
+}
+
+.booking-container .container {
+  height: 480px;
+  width: 568px;
+  left: 356px;
+  top: 300px;
+  border-radius: 20px;
+  background-color:  #8F68BD;
+  
+}
+
+.booking-container .container .container-head h3 {
+  margin-top: 2rem;
+  display: block;
+  width: 550px;
+  height: 40px;
+  top: 120px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.booking-container .container .container-head .container-body .apply {
+  width: 533px;
+  height: 44px;
+  left: 374px;
+  top: 2540px;
+
+  background: #f2eefb;
+  border-radius: 10px;
+}
+
+.container-body .bar{
+    
+height: 54px;
+width: 550px;
+border-radius: 20px;
+
+   
+}
+ 
+
+
+
+ 

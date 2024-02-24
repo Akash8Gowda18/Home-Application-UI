@@ -1,0 +1,75 @@
+.header{
+top: 706px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+text-decoration-line: underline;
+color: hsl(267, 33%, 21%);
+
+}
+
+.para{
+top: 754px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #332346;
+}
+
+
+
+
+.service-container {
+    display: flex;
+  }
+  
+ .service-container .container {
+    height: 494px;
+    width: 550px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    
+    background: #8F68BD;
+
+
+
+
+  }
+ 
+
+
+
+  .service-container .container .img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+
+
+  .service-container .container p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+margin-top: 1rem;
+
+  }
+
+
+  .service-container .container .oven{
+    margin-top: 2rem;
+  }
+
+  .service-container .container .oven p{
+    margin-top: 5rem;
+  }
+  

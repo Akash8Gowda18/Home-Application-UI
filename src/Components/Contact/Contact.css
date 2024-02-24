@@ -1,0 +1,66 @@
+.contact-container {
+  display: flex;
+}
+
+.contact-container .container-fluid .img {
+  top: 350px;
+  width: 400px;
+  height: 360px;
+  margin-right: 15rem ;
+}
+
+.contact-container .container {
+  
+  width: 750px;
+  margin-right: 10rem;
+}
+
+.contact-container .container h5{
+ 
+width: 128px;
+height: 28px;
+left: 647px;
+top: 3075px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18.7622px;
+line-height: 28px;
+
+color: #8F68BD;
+}
+
+.lower-container .container-fluid {
+  background-color: blueviolet;
+}
+
+.lower-container .container-fluid .sample{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #F2EEFB;
+}
+
+.lower-container .container-fluid img{
+  margin-top: 0.2rem;
+  border-radius: 15px;
+}
+
+.lower-about-us {
+  display: flex;
+}
+
+.lower-logo {
+  
+  width: 1500px;
+  height: 45px;
+  color: #ffffff;
+ 
+  
+}
+
+
